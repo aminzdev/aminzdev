@@ -58,17 +58,17 @@ I am a passionate Artificial Intelligence and Software Engineer with a strong fo
 
 ## 🏅 Honors & Awards
 
-- Ranked 1st, graduated with the highest average in associate and bachelor’s degrees from Imam Ali University.
+- Ranked 1st, graduated with the highest associate and bachelor’s degrees average from Imam Ali University.
 - Ranked 2nd in the non-continuous bachelor’s entrance exam in software engineering.
 - Ranked 4th in the 13th practical scientific competitions of the technical and vocational branch.
 
 ## 🔗 Connect with Me
 
-- Email: [amin.zdev@gmail.com](mailto:amin.zdev@gmail.com) | [amin.rezaei@ieee.com](mailto:amin.rezaei@ieee.com)
+- Email: [amin.zdev@gmail.com](mailto:amin.zdev@gmail.com) | [amin.rezaei@ieee.org](mailto:amin.rezaei@ieee.org)
 - LinkedIn: [Amin Rezaei](https://www.linkedin.com/in/aminzdev)
 
 ---
 
-Feel free to explore my repositories to see my work in AI, software engineering, and app development. I'm always open to collaborations and new projects!
+I'm always open to collaborations and new projects!
 
 ---
