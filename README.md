@@ -12,7 +12,7 @@ I am a passionate Artificial Intelligence and Software Engineer with a strong fo
 
 ## 🎓 Education
 
-- **M.Sc. in Artificial Intelligence and Robotics** - Yazd University, Yazd, Iran (2021-2023)
+- **M.Sc. in Artificial Intelligence and Robotics** - Yazd University, Yazd, Iran (2021-2024)
   - Thesis: Providing a computer vision solution for knee range of motion analysis for patient monitoring before and after surgery using a mobile application.
   
 - **B.Sc. in Software Engineering** - Imam Ali Technical College of Yazd, Yazd, Iran (2018-2020)
