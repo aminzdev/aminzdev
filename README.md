@@ -27,30 +27,23 @@ I am a passionate Artificial Intelligence and Software Engineer with a strong fo
 
 ## 💼 Professional Experience
 
-### High-Performance Computing (HPC)
-- Designed and implemented scalable distributed systems and dynamic HPC protocols.
-- Optimized bioinformatics algorithms for genome sequence matching.
-
 ### Computer Vision
 - Developed algorithms for teeth instance segmentation, face recognition, anomaly detection, and scoring systems.
 - Working on an AI-powered travel companion app.
 
-### Machine Learning
-- Built cognitive systems for analyzing employee activity patterns.
-
 ### Android Development
 - Developed RoMA-T, an AI-powered mobile application for knee range of motion analysis.
-- Created various security system applications using SMS and Bluetooth.
+- Created two security applications using SMS and Bluetooth.
 
 ## 🛠 Skills
 
 - **AI/Deep Learning:** Computer Vision, NLP, Generative AI
-- **Programming Languages:** C++, Go, Python, Julia, R, Matlab, Dart, Kotlin, Rust, Prolog
+- **Programming Languages:** Python, C++, Go, Dart
 - **Frameworks:** PyTorch, OpenCV, gRPC, Flutter
-- **Databases:** PostgreSQL, SQLite, MongoDB
-- **Containerization:** Docker, Kubernetes
-- **Paradigms:** Imperative, Procedural, Object-Oriented, Functional, Logical, Event-Driven, Reactive, Concurrent, Parallel, Aspect-Oriented, Generic, Data-Oriented, Dynamic, Distributed, Cognitive
-- **Miscellaneous:** Linux, Git, WordPress, LaTeX
+- **Databases:** PostgreSQL, SQLite
+- **Containerization:** Docker, Docker-Compose
+- **Paradigms:** Imperative, Procedural, Object-Oriented, Functional, Logical, Event-Driven, Reactive, Concurrent and Parallel, Distributed
+- **Miscellaneous:** Linux, Git, LaTeX
 
 ## 🎓 Teaching Experience
 
