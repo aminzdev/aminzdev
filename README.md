@@ -20,7 +20,6 @@ I'm a software developer and AI specialist with a passion for solving real-world
 - **Software Development**  
   - Proficient in **Python, C++, Go and Dart**.  
   - Experienced with frameworks like **PyTorch, OpenCV, gRPC, and Flutter**.  
-  - Worked on Android applications, including **SMS-based and Bluetooth-base security systems**.  
 
 - **Teaching & Mentorship**  
   - University instructor for **Operating Systems (Linux), Data Structures, Advanced Programming, Computer Networks, and Android Programming**.  
