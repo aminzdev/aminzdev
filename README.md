@@ -18,12 +18,12 @@ I'm a software developer and AI specialist with a passion for solving real-world
   - Optimized **bioinformatics algorithms** for genome sequence matching using C++/MPI.  
 
 - **Software Development**  
-  - Proficient in **Python, C++, Go, Dart, Rust, Julia, Kotlin, and Prolog**.  
+  - Proficient in **Python, C++, Go and Dart**.  
   - Experienced with frameworks like **PyTorch, OpenCV, gRPC, and Flutter**.  
-  - Worked on Android applications, including **SMS-based security systems and Bluetooth-controlled remote access**.  
+  - Worked on Android applications, including **SMS-based and Bluetooth-base security systems**.  
 
 - **Teaching & Mentorship**  
-  - University instructor for **Operating Systems (Linux), Data Structures, Advanced Programming, Computer Networks, and AI-related courses**.  
+  - University instructor for **Operating Systems (Linux), Data Structures, Advanced Programming, Computer Networks, and Android Programming**.  
   - Mentored students in **distributed computing and AI-driven projects**.  
 
 ## 🛠️ Tech Stack  
