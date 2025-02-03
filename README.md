@@ -64,6 +64,6 @@ I'm a software developer and AI specialist with a passion for solving real-world
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aminzdev)  
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aminzdev)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amin.zdev@gmail.com)  
-[![IEEE Email](https://img.shields.io/badge/IEEE%20Email-0C2340?style=for-the-badge&logo=ieee&logoColor=white)](mailto:amin.rezaei@ieee.org)
+[![IEEE](https://img.shields.io/badge/IEEE-000000?style=for-the-badge&logo=ieee&logoColor=white)](mailto:amin.rezaei@ieee.org)
 
 Let's collaborate and build something amazing! 🚀  
