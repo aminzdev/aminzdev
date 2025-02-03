@@ -1,67 +1,70 @@
-# 👋 Hi, I'm Amin Rezaei (@aminzdev)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=aminzdev)
 
-### 🧠 Artificial Intelligence Specialist | 📱 Mobile, Desktop & Web Developer | 🖥️ Software Engineer
+# 👋 Hi, I'm Amin Rezaei!  
 
----
+🚀 **AI & Computer Vision Specialist | Software Developer | Educator | IEEE Student Member**  
 
-## 🚀 About Me
+I'm a software developer and AI specialist with a passion for solving real-world problems through code. With over a decade of experience in programming and a strong background in **Artificial Intelligence, Computer Vision, and Deep Learning**, I enjoy working on innovative projects that push the boundaries of technology.  
 
-I am a passionate Artificial Intelligence and Software Engineer with a strong focus on AI, computer vision, and application development. My academic background includes a M.Sc. in Artificial Intelligence and Robotics and a B.Sc. in Software Engineering. I have a diverse skill set spanning multiple programming languages, frameworks, and paradigms, along with significant teaching and mentorship experience.
+## 🔥 What I Do  
 
-## 🎓 Education
+- **Artificial Intelligence & Computer Vision**  
+  - Developed an AI-powered **knee range of motion analysis** system for post-surgery monitoring.  
+  - Contributed to **teeth instance segmentation** in panoramic X-rays for advanced dental diagnostics.  
+  - Worked on **illumination-independent face recognition** for surveillance applications.  
 
-- **M.Sc. in Artificial Intelligence and Robotics** - Yazd University, Yazd, Iran (2021-2024)
-  - Thesis: Providing a computer vision solution for knee range of motion analysis for patient monitoring before and after surgery using a mobile application.
-  
-- **B.Sc. in Software Engineering** - Imam Ali Technical College of Yazd, Yazd, Iran (2018-2020)
-  - Thesis: Implementation of a distributed computing system.
-  
-- **A.Sc. in Software Engineering** - Imam Ali Technical College of Yazd, Yazd, Iran (2016-2018)
-  - Thesis: Design and implementation of HPC accounting CLI.
+- **High-Performance & Distributed Computing**  
+  - Designed and implemented a **distributed computing system** for workload decomposition across HPC clusters.  
+  - Optimized **bioinformatics algorithms** for genome sequence matching using C++/MPI.  
 
-## 📚 Research Publications
+- **Software Development**  
+  - Proficient in **Python, C++, Go, Dart, Rust, Julia, Kotlin, and Prolog**.  
+  - Experienced with frameworks like **PyTorch, OpenCV, gRPC, and Flutter**.  
+  - Worked on Android applications, including **SMS-based security systems and Bluetooth-controlled remote access**.  
 
-1. Rezaei, A., & Asadi, F. (2024). "Systematic review of image segmentation using complex networks," arXiv preprint arXiv:2401.02758.
+- **Teaching & Mentorship**  
+  - University instructor for **Operating Systems (Linux), Data Structures, Advanced Programming, Computer Networks, and AI-related courses**.  
+  - Mentored students in **distributed computing and AI-driven projects**.  
 
-## 💼 Professional Experience
+## 🛠️ Tech Stack  
 
-### Computer Vision
-- Developed algorithms for teeth instance segmentation, face recognition, anomaly detection, and scoring systems.
-- Working on an AI-powered travel companion app.
+### 🚀 Languages & Frameworks  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
 
-### Android Development
-- Developed RoMA-T, an AI-powered mobile application for knee range of motion analysis.
-- Created two security applications using SMS and Bluetooth.
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)  
 
-## 🛠 Skills
+### 💾 Databases & Tools  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
-- **AI/Deep Learning:** Computer Vision, NLP, Generative AI
-- **Programming Languages:** Python, C++, Go, Dart
-- **Frameworks:** PyTorch, OpenCV, gRPC, Flutter
-- **Databases:** PostgreSQL, SQLite
-- **Containerization:** Docker, Docker-Compose
-- **Paradigms:** Imperative, Procedural, Object-Oriented, Functional, Logical, Event-Driven, Reactive, Concurrent and Parallel, Distributed
-- **Miscellaneous:** Linux, Git, LaTeX
+## 🌟 Projects  
 
-## 🎓 Teaching Experience
+🔹 **[Knee ROM Analysis](#)** – AI-powered mobile application for knee range of motion analysis.  
+🔹 **[Teeth Instance Segmentation](#)** – Computer vision algorithm for dental X-ray segmentation.  
+🔹 **[Face Recognition](#)** – Robust face recognition system for challenging lighting conditions.  
+🔹 **[Distributed Computing System](#)** – Parallelized task distribution across decentralized HPC clusters.  
 
-- Data Structures, Advanced Programming, Computer Networks, Programming Paradigms, Android Programming, Operating Systems, Deep Learning, Image Processing, NLP/Prolog, Parallel Programming, Distributed Programming.
+👉 Check out more on my [GitHub repositories](https://github.com/aminzdev)!  
 
-## 🏅 Honors & Awards
+## 📚 Latest Research  
 
-- Ranked 1st, graduated with the highest associate and bachelor’s degrees average from Imam Ali University.
-- Ranked 2nd in the non-continuous bachelor’s entrance exam in software engineering.
-- Ranked 4th in the 13th practical scientific competitions of the technical and vocational branch.
+- **Systematic Review of Image Segmentation Using Complex Networks**  
+  *A. Rezaei and F. Asadi* – [arXiv:2401.02758](https://arxiv.org/abs/2401.02758)  
 
-## 🔗 Connect with Me
+## 📫 Connect with Me  
 
-- Email: [amin.zdev@gmail.com](mailto:amin.zdev@gmail.com) | [amin.rezaei@ieee.org](mailto:amin.rezaei@ieee.org)
-- LinkedIn: [Amin Rezaei](https://www.linkedin.com/in/aminzdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aminzdev)  
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aminzdev)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amin.zdev@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amin.rezaei@ieee.org)  
 
----
-
-I'm always open to collaborations and new projects!
-
----
+Let's collaborate and build something amazing! 🚀  
