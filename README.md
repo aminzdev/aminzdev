@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Amin Rezaei!  
 
-🚀 **AI & Computer Vision Specialist | Software Developer | Educator | IEEE Student Member**  
+🚀 **AI & Computer Vision Specialist | Software Developer | Educator | IEEE Member**  
 
 I'm a software developer and AI specialist with a passion for solving real-world problems through code. With over a decade of experience in programming and a strong background in **Artificial Intelligence, Computer Vision, and Deep Learning**, I enjoy working on innovative projects that push the boundaries of technology.  
 
