@@ -42,7 +42,7 @@ I'm a software developer and AI specialist with a passion for solving real-world
 🔹 **[Face Recognition](#)** – Robust face recognition system for challenging lighting conditions.  
 🔹 **[Distributed Computing System](#)** – Parallelized task distribution across decentralized HPC clusters.  
 
-👉 Check out more on my [GitHub repositories](https://github.com/aminzdev)!  
+👉 Check out more on my [GitHub repositories](https://github.com/aminzdev?tab=repositories)!  
 
 ## 📚 Latest Research  
 
